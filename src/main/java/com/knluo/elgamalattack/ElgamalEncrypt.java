@@ -2,7 +2,6 @@ package com.knluo.elgamalattack;
 
 import java.math.BigInteger;
 import java.util.Random;
-import java.util.logging.Logger;
 
 public class ElgamalEncrypt {
     public BigInteger largeProbablePrime() {
